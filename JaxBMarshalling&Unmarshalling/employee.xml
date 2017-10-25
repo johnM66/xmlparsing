@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Employee>
+    <id>1</id>
+    <name>Manas</name>
+    <department>Development</department>
+    <address>
+        <city>Kolkata</city>
+        <state>West bengal</state>
+        <street>1234, 27G KOLkata</street>
+        <zip>700066</zip>
+    </address>
+</Employee>
